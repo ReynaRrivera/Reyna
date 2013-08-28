@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Practica1_rarn.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Practica1_rarn"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="20"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="53"/>
+        <CursorPos X="74" Y="60"/>
+        <UsageCount Value="25"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2714"/>
+        <CursorPos X="1" Y="2719"/>
+        <UsageCount Value="12"/>
+      </Unit2>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="Practica1_rarn.lpr"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Practica1_rarn.lpr"/>
+        <Caret Line="20" Column="1" TopLine="2"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Practica1_rarn.lpr"/>
+        <Caret Line="9" Column="57" TopLine="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Practica1_rarn.lpr"/>
+        <Caret Line="20" Column="1" TopLine="2"/>
+      </Position4>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
